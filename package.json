@@ -1,7 +1,7 @@
 {
   "name": "preact-autocomplete",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "build/preact-autocomplete.js",
   "author": "Hamed Bahrami <email@hamedbahrami.de>",
   "license": "MIT",
   "dependencies": {

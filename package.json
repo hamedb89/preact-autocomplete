@@ -15,7 +15,6 @@
     "jquery": "^3.2.1",
     "lodash": "^4.17.4",
     "preact": "^8.2.1",
-    "preact-compat": "^3.16.0",
     "suitcss": "^3.0.0",
     "vinyl-named": "^1.1.0",
     "webpack-stream": "^3.2.0"
